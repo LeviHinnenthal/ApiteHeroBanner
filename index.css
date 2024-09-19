@@ -64,7 +64,10 @@ header img {
     transition-property: all;
     word-wrap: break-word;
 }
-
+.headerWrapper {
+    display: flex;
+    gap: 50px;
+}
 .headerLink {
     color: #037394;
     padding-bottom: 14px;
